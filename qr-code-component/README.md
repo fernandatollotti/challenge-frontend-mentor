@@ -23,12 +23,5 @@ Criar um componente de QR Code visualmente atraente e funcional que ajude a prom
 - Exibição de um QR Code que redireciona para o Frontend Mentor
 - Design responsivo que se adapta a diferentes tamanhos de tela
 
-## 📝 Como funciona
-1. O usuário visualiza um componente de QR Code com uma imagem, título e descrição.
-2. Ao escanear o QR Code, o usuário é direcionado para a homepage do Frontend Mentor.
-
-## 🔗 Acesse o desafio no Frontend Mentor
-[Frontend Mentor - QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_s1o-0)
-
 ## 📜 Licença  
 Projeto licenciado sob a [MIT License](https://github.com/fernandatollotti/challenge-frontend-mentor/tree/master?tab=MIT-1-ov-file).
