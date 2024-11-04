@@ -13,7 +13,10 @@ Um componente simples de QR Code que permite aos usuários escanear um código p
 Criar um componente de QR Code visualmente atraente e funcional que ajude a promover a plataforma Frontend Mentor, melhorando assim as habilidades de front-end.
 
 ## 📋 Requisitos
-🔹 Estruturas de HTML e CSS básicas  🔹 Estilização responsiva
+🔹 HTML básico para estruturar o conteúdo
+🔹 CSS para estilização e layout
+🔹 Manter a conformidade com o design proposto.
+🔹 Conceitos de responsividade
 
 ## 🛠️ Recursos
 ![HTML 5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
