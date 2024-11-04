@@ -11,11 +11,11 @@ O projeto consiste em um card de pré-visualização que exibe informações de 
 ## 🎯 Objetivo
 O objetivo é criar um card de pré-visualização de perfil que exiba informações do autor e links para suas redes sociais, utilizando HTML e CSS (Flexbox e variáveis CSS).
 ## 📋 Requisitos
-🔹 **Seguir o design criado**  
-🔹 **Utilizar HTML para a estrutura do card**  
-🔹 **Utilizar CSS para o estilo e layout do card**  
-🔹 **Implementar Flexbox para o layout responsivo**  
-🔹 **Incluir variáveis CSS para gerenciamento de cores e tamanhos**  
+🔹 HTML básico para estruturar o conteúdo
+🔹 CSS para estilização e layout
+🔹 Manter a conformidade com o design proposto.
+🔹 Conceitos de responsividade 
+🔹 Incluir variáveis CSS para gerenciamento de cores e tamanhos  
 
 ## 🛠️ Recursos
 ![HTML 5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
