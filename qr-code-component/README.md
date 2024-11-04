@@ -1,14 +1,34 @@
 # QR Code Component
 
-Este projeto é um desafio da plataforma Frontend Mentor que consiste em criar um componente de QR Code responsivo, baseado nas especificações de design fornecidas para desktop e mobile.
+Um componente simples de QR Code que permite aos usuários escanear um código para acessar o site do Frontend Mentor. O projeto demonstra habilidades básicas de HTML e CSS, focando na criação de um cartão responsivo.
 
-## Descrição
-O objetivo deste projeto é construir um componente de QR Code que se adapte a diferentes tamanhos de tela, seguindo o design fornecido. Utilize o Flexbox para garantir que o layout seja responsivo e se ajuste bem tanto em dispositivos móveis quanto em desktop.
+[![Link do Projeto](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://spectacular-heliotrope-4214b8.netlify.app/) 
+[![Link do Projeto](https://img.shields.io/badge/Acesse%20o%20Projeto-E94D5F?style=for-the-badge)](https://spectacular-heliotrope-4214b8.netlify.app/)
 
-## Tecnologias Utilizadas
-- HTML5: Estrutura básica do componente.
-- CSS3: Estilização e layout.
-  - Flexbox: Utilizado para criar um layout responsivo e garantir que o componente se ajuste a diferentes tamanhos de tela.
+## 📚 O projeto é composto pelas seções:
+🔸 Imagem do QR Code  
+🔸 Título e descrição sobre o projeto
 
-## Visualização
-![image](https://github.com/user-attachments/assets/c25c44a4-c22a-4f58-9f4a-29945f2cca7e)
+## 🎯 Objetivo
+Criar um componente de QR Code visualmente atraente e funcional que ajude a promover a plataforma Frontend Mentor, melhorando assim as habilidades de front-end.
+
+## 📋 Requisitos
+🔹 Estruturas de HTML e CSS básicas  🔹 Estilização responsiva
+
+## 🛠️ Recursos
+![HTML 5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
+![CSS 3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+## ✨ Funcionalidades 
+- Exibição de um QR Code que redireciona para o Frontend Mentor
+- Design responsivo que se adapta a diferentes tamanhos de tela
+
+## 📝 Como funciona
+1. O usuário visualiza um componente de QR Code com uma imagem, título e descrição.
+2. Ao escanear o QR Code, o usuário é direcionado para a homepage do Frontend Mentor.
+
+## 🔗 Acesse o desafio no Frontend Mentor
+[Frontend Mentor - QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_s1o-0)
+
+## 📜 Licença  
+Projeto licenciado sob a [MIT License](https://github.com/fernandatollotti/challenge-frontend-mentor/tree/master?tab=MIT-1-ov-file).
