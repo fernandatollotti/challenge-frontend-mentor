@@ -1,0 +1,30 @@
+/* === colors === */
+$primary: hsl(158, 36%, 37%);
+$primary-dark: hsl(158, 42%, 18%);
+
+// text
+$text-base: hsl(0, 0%, 100%);
+$text-heading: hsl(212, 21%, 14%);
+$text-body: hsl(228, 12%, 48%);
+$text-price: $primary;
+$text-price-muted: $text-body;
+
+// background
+$background: hsl(30, 38%, 92%);
+$surface: hsl(0, 0%, 100%);
+
+/* === typography === */
+$font-stack-base: "Montserrat", sans-serif;
+$font-stack-heading: "Fraunces", serif;
+
+// size
+$font-base: 0.875rem;
+$font-size-heading: 2rem;
+
+// weigth
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+// radius
+$radius-sm: 0.5rem;
+$radius-md: 0.75rem;

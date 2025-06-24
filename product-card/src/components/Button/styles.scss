@@ -1,0 +1,17 @@
+@use "../../styles/variables" as *;
+
+.btn-cart {
+  width: 100%;
+  display: flex;
+  margin-top: 1.375rem;
+  display: flex;
+  gap: 1.25rem;
+  justify-content: center;
+  border-radius: $radius-sm;
+  background-color: $primary;
+  transition: 0.3s ease-in-out;
+
+  &:hover {
+    background-color: $primary-dark;
+  }
+}
