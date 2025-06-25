@@ -1,4 +1,6 @@
 import Button from "../Button";
+import desktopImage from "../../assets/image-product-desktop.jpg";
+import mobileImage from "../../assets/image-product-mobile.jpg";
 import "./styles.scss";
 
 export default function Card() {
@@ -6,14 +8,8 @@ export default function Card() {
     <div className="card">
       <div className="thumbnail">
         <picture>
-          <source
-            media="(min-width: 1200px)"
-            srcSet="src/assets/image-product-desktop.jpg"
-          />
-          <img
-            src="src/assets/image-product-mobile.jpg"
-            alt="Gabrielle Essence Eau De Parfum perfume"
-          />
+          <source media="(min-width: 992px)" srcSet={desktopImage} />
+          <img src={mobileImage} alt="Gabrielle Essence Eau De Parfum perfume" />
         </picture>
       </div>
       <div className="card-body">
