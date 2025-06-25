@@ -1,0 +1,29 @@
+/* === primary colors === */
+$primary: hsl(234, 12%, 34%);
+$secondary: hsl(212, 6%, 44%);
+
+// background
+$background: hsl(0, 0%, 100%);
+$surface: hsl(0, 0%, 98%);
+
+// colors
+$red: hsl(0, 78%, 62%);
+$cyan: hsl(180, 62%, 55%);
+$orange: hsl(34, 97%, 64%);
+$blue: hsl(212, 86%, 64%);
+
+/* === typography === */
+$font-stack-base: "Poppins", sans-serif;
+
+// size
+$font-size: 0.938rem;
+$heading-sm: 1.25rem;
+$heading-md: 2.25rem;
+
+// weight
+$weight-light: 200;
+$weight-regular: 400;
+$weight-bold: 600;
+
+/* === border radius === */
+$radius-sm: 0.375rem;
