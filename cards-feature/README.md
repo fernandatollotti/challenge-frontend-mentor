@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cards-feature.netlify.app/" target="_blank">
+  <a href="https://quadcards.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse%20o%20Projeto-b702ff?style=for-the-badge" alt="Link do Projeto">
   </a>
 </p>
