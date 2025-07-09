@@ -37,7 +37,7 @@ As principais tecnologias utilizadas neste projeto:
 ![Vite](https://img.shields.io/badge/Vite-333333?style=for-the-badge&logo=vite&logoColor=9466FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript)
 ![Node](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
-![CSS Grid](https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Grid](https://img.shields.io/badge/CSS%20Grid-333333?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
