@@ -1,0 +1,18 @@
+@use "./reset";
+@use "./variables" as *;
+
+body {
+  font-size: $font-base;
+  font-family: $font-stack-base;
+  background-color: $gray-100;
+}
+
+h3 {
+  font-size: $heading-sm;
+  padding-bottom: 1.25rem;
+}
+
+p {
+  line-height: 1.38;
+  font-weight: $weight-medium;
+}
