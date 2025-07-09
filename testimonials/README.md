@@ -1,11 +1,11 @@
 <h1 align="center">Testimonials Grid - Depoimentos</h1>
 
 <p align="center">
-  <a href="#sobre">Sobre</a> • 
-  <a href="#tecnologias">Tecnologias</a> • 
-  <a href="#aprendizados">Aprendizados</a> • 
-  <a href="#créditos">Créditos</a> • 
-  <a href="#contribuir">Contribuir</a>
+  <a href="#about">Sobre</a> • 
+  <a href="#technologies">Tecnologias</a> • 
+  <a href="#learned">Aprendizados</a> • 
+  <a href="#credits">Créditos</a> • 
+  <a href="#contribute">Contribuir</a>
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ Design originalmente fornecido para recriação em código.
 
 ---
 
-<h2 id="credits">📫 Contribuir</h2>
+<h2 id="contribute">📫 Contribuir</h2>
 
 Contribuições são sempre bem-vindas!
 
