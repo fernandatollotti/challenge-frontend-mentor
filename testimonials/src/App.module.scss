@@ -10,24 +10,24 @@
 .testimonials {
   display: grid;
   gap: 1.5rem 2rem;
-  grid-template-columns: repeat(1, 1fr); // padrão mobile: 1 coluna
+  grid-template-columns: repeat(1, 1fr); 
 }
 
 @media (min-width: 576px) {
   .testimonials {
-    grid-template-columns: repeat(2, 1fr); // tablets pequenos
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (min-width: 768px) {
   .testimonials {
-    grid-template-columns: repeat(3, 1fr); // tablets grandes
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
 @media (min-width: 992px) {
   .testimonials {
-    grid-template-columns: repeat(4, 1fr); // desktops
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
